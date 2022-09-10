@@ -3,6 +3,7 @@ por defecto al exportar un juego en HTML desde Unreal Engine "4.22" o "4.23"
 
 # Tomar de ejemplo el archivo CSS/HTML
 
+# --------------------------------------------------
 
 # A tener en cuenta si queres desactivar mensajes molestos desde javascript "Running with IndexedDB access disabled",
 igualmente la etiqueta esta ocultada desde el html
@@ -11,6 +12,7 @@ Osea son estos dos de aca abajo, se encuentran arriba del arrhibo shipping.UE4.J
 // if (!enableReadFromIndexedDB) showWarningRibbon('Running with IndexedDB access disabled.');
 // else if (!enableWriteToIndexedDB) showWarningRibbon('Running in read-only IndexedDB access mode.');
 
+# --------------------------------------------------
 
 The files in this folder are all the files you need to upload to your web server.
 
