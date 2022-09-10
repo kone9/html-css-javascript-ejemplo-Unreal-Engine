@@ -1,3 +1,6 @@
+# Ejemplo de configuración de plantilla HTML-CSS-JAVASCRIPT más linda a la que viene
+por defecto al exportar un juego en HTML desde Unreal Engine "4.22" o "4.23"
+
 The files in this folder are all the files you need to upload to your web server.
 
 
